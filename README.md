@@ -29,7 +29,7 @@ To transition into a Security Operations (SOC) Analyst role, leveraging my WGU e
 | `TryHackMe_Labs/`   | Write-ups and screenshots from Blue Team and SOC-level labs |
 | `Incident_Reports/` | Simulated response reports, IOC summaries, and investigations |
 | `Certifications/`   | PDF certificates and index of completed and expected certs |
-| `Resume/`           | Latest version of my entry-level SOC Analyst resume (PDF) |
+| `Resume/`           | Latest version of my entry-level SOC Analyst resume [Tollis Hill Entry Level SOC Analyst Resume (PDF)] (./Tollis Hill_SOC_Analyst_Resume.pdf) |
 
 ---
 
