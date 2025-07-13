@@ -54,7 +54,7 @@ To transition into a Security Operations (SOC) Analyst role, leveraging my WGU e
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https:www.linkedin.com/in/tollishill)  
+- [LinkedIn] https//:www.linkedin.com/in/tollishill 
 - 📧 tkendallhill@gmail.com  
 
 > *"Security through visibility, detection through practice."*
